@@ -1,16 +1,13 @@
-
 .ourCrew {
-    display: flex;
-    justify-content: space-between;
-    margin-top: 30px;
-    text-align: left;
-        
-  }
-  .crewCard {
-    flex-basis: 18%;
-  }
-  
-  .crewCard img {
-    width: 60%;
-  }
-  
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+  text-align: left;
+}
+.crewCard {
+  flex-basis: 18%;
+}
+
+.crewCard img {
+  width: 60%;
+}
