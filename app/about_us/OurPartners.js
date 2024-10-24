@@ -2,7 +2,7 @@ import styles from "./partners.module.css";
 
 const OurPartners = () => {
 
-const CompanyName = [
+const companyName = [
 
 {company: "Alphabet",
  Url: "./business_partners/alphabet-logo.png",
@@ -36,7 +36,7 @@ const CompanyName = [
     <h3>We collaborate with some of the most respected names in the space and technology industries to make every journey extraordinary.
     </h3>
     <div className={styles.ourPartners}>
-    {CompanyName.map((partner) => (
+    {companyName.map((partner) => (
     <div key={partner.company} >
     <img src={partner.Url} alt={`${partner.company}`} />
     </div>
