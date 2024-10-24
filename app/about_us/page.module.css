@@ -3,3 +3,10 @@
   width: 100vw;
   height: 100vh;
 }
+.heading{
+  font-size: 50px;
+}
+.titleFont{
+  font-size: 40px;
+  text-align: center;
+}
