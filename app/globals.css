@@ -117,7 +117,7 @@ button {
   text-transform: uppercase;
   padding: var(--spacing-08);
   border: none;
-  background-color: white;
+  background-color: rgb(85, 76, 76);
   font-weight: 600;
   letter-spacing: 2px;
 }
@@ -165,7 +165,7 @@ button {
   min-height: 250px;
   min-width: 250px;
   line-height: 250px;
-  background-color: white;
+  background-color: rgb(78, 69, 69);
   border-radius: 50%;
   font-size: 30px;
   font-weight: 200;
@@ -180,7 +180,7 @@ button {
   min-width: 100px;
   line-height: 100px;
   cursor: pointer;
-  background-color: white;
+  background-color: rgb(92, 87, 87);
   border-radius: 50%;
   font-size: 8px;
   font-weight: 800;
